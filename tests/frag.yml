@@ -1,0 +1,5 @@
+version: "1.0"
+access:
+  name: hide
+  enabled: true
+  config: dog
